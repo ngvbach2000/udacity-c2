@@ -1,12 +1,22 @@
 # Overview
 
 <TODO: complete this with an overview of your project>
+- CI: Set Up Azure Cloud Shell
+    + Create the Cloud-Based Development Environment
+    + Create Project Scaffolding
+    + Local Test
+- CI: Configure GitHub Actions
+    + Enable Github Actions
+    + Config yml code
+    + Verify Remote Tests pass
+- Continuous Delivery on Azure
+    + Run azure pipeline to deploy to Azure Web App
 
 ## Project Plan
 <TODO: Project Plan
 
-* A link to a Trello board for the project
-* A link to a spreadsheet that includes the original and final project plan>
+* A link to a Trello board for the project: https://trello.com/b/vzigKEm9/udacity 
+* A link to a spreadsheet that includes the original and final project plan>: https://docs.google.com/spreadsheets/d/1FJUcpQJ8Jb9aPT_om8ym5JN1NfgS_n_CDXtAhbPdEMo/edit?usp=sharing
 
 ## Instructions
 
@@ -43,6 +53,9 @@ Port: 443
 ## Enhancements
 
 <TODO: A short description of how to improve the project in the future>
+- The project will be updated in the future without changes
+- The project will be updated to the newest version
+- The project will be updated to optimize performance
 
 ## Demo 
 
