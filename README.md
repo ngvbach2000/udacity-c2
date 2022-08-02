@@ -63,8 +63,9 @@ The output should look similar to this:
 * Output of streamed log files from deployed application
 ![applog](https://user-images.githubusercontent.com/74226317/182109987-c18452dc-d0c5-4490-849f-963d698bae10.png)
 
+* Locust running a test
+> ![image](https://user-images.githubusercontent.com/74226317/182285209-2261c501-3d99-4fd6-8b42-ea10912f7c5b.png)
 
-> 
 
 ## Enhancements
 
