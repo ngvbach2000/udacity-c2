@@ -1,8 +1,8 @@
-from locust import HttpUser, task, between
+from app import predict
 
-class WebsiteTestUser(HttpUser):
-    wait_time = between(0.5, 4.0)
-
-    @task(1)
-    def test(self):
-        self.client.post("https://udacity-c2.scm.azurewebsites.net/")
+def predict():
+    data = {"CHAS": {"0": 0}, "RM": {"0": 6.575}, "TAX": {"0": 296.0}, "PTRATIO": {"0": 15.3}, "B": {"0": 396.9},
+            "LSTAT": {"0": 4.98}}
+    url = 'https://udacity-c2.azurewebsites.net/'
+    response = requests.post(url, data)
+    assert response.status_code == 200
