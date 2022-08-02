@@ -65,6 +65,7 @@ The output should look similar to this:
 
 * Locust running a test
 ![image](https://user-images.githubusercontent.com/74226317/182312328-29490d58-101a-4a84-9533-e8128b5423f3.png)
+![image](https://user-images.githubusercontent.com/74226317/182342263-2ce4f8e6-3fe6-43d7-b0c1-6117161662ed.png)
 
 
 
